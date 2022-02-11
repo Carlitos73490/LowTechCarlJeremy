@@ -20,6 +20,9 @@ body{
     background-color: black;
     /*padding: 60px 18px 18px 18px;*/
 }
+.article img{
+    width: 100%;
+}
 
 .header {
   /*  position: fixed;
@@ -73,6 +76,7 @@ body{
     padding: 1em;
     border-top: white 1px solid;
 }
+
 
 
 
